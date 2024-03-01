@@ -1,3 +1,3 @@
 This is just a basic practice of how to use Git and GitHub.
 
-now apllying Git Pull.
+now applying Git Pull.
