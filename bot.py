@@ -2,7 +2,7 @@
 
 from chatterbot import ChatBot
 
-chatbot = ChatBot("Chatpot")
+chatbot = ChatBot("Chatpot_error")
 
 exit_conditions = (":q", "quit", "exit")
 while True:
