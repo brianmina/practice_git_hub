@@ -2,7 +2,11 @@
 
 from chatterbot import ChatBot
 
-chatbot = ChatBot("Chatpot_error")
+<<<<<<< HEAD
+chatbot = ChatBot("Chatpot_error__lets see")
+=======
+chatbot = ChatBot("Chatpot_thehellomodification")
+>>>>>>> hello-world
 
 exit_conditions = (":q", "quit", "exit")
 while True:
